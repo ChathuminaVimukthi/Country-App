@@ -24,5 +24,5 @@ The page will reload if you make edits.<br />
 
 ## Reading List
 
-* ImmerJS - https://immerjs.github.io/immer/docs/introduction
+* ImmerJS - https://immerjs.github.io/immer/
 * Redux Sagas - https://redux-saga.js.org/ 
