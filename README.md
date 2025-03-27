@@ -26,3 +26,6 @@ The page will reload if you make edits.<br />
 
 * ImmerJS - https://immerjs.github.io/immer/
 * Redux Sagas - https://redux-saga.js.org/ 
+
+## How to test
+* Test
